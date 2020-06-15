@@ -1,5 +1,5 @@
 # tdd-exmple
-tdd exmple using Junit. Exmple project is implementation for problem mention in : 
+tdd example project using Junit. Exmple project is implementation for problem mention in : 
 https://osherove.com/tdd-kata-1.
 
 Steps to run:
